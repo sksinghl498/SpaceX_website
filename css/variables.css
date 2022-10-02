@@ -5,3 +5,10 @@
     --gray: #1d1d1d;
     --mild: #b9b8b8;
 }
+
+.hero .cta{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: calc(100vh-80px);
+}
